@@ -37,3 +37,4 @@ By below gradient goosting method, I will predict fradulent customers/cards.
 1. README.md - Explanatory page
 2. Mod5_Project_Coding.ipynb - Python coding file
 3. KangMOD5FinalProject - Presentation powerpoint/PDF slides
+4. Presentation Record Addres - Textfile for youtube address for recorded presentation video
