@@ -8,10 +8,13 @@ Competition link: https://www.kaggle.com/c/ieee-fraud-detection/
 ## Dataset
 
 Dataset was provided from IEEE-CIS. Files are 
--test_identity
--test_transaction
--train_identity
--tran_transaction
+- test_identity
+- test_transaction
+- train_identity
+- tran_transaction
+
+Files were too big to upload straight to my github.
+Downloadable link is here: https://www.kaggle.com/c/ieee-fraud-detection/data
 
 
 ## PRoblem Statement
