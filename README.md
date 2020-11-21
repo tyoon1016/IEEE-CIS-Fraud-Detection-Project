@@ -18,7 +18,7 @@ Downloadable link is here:
 https://www.kaggle.com/c/ieee-fraud-detection/data
 
 
-## PRoblem Statement
+## Problem Statement
 
 - Credit card fraud is the unauthorized use of a credit/debit card, fraudulently obtaining money or property. 
 - Cases of Credit Card Fraud have increased every year in US.
